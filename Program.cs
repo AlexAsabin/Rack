@@ -11,7 +11,7 @@ namespace Rack
         delegate void MessageHandler(string message);
         static void Main(string[] args)
         {
-            
+            Console.ReadLine();
         }
     }
 }
